@@ -20,6 +20,7 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 
 - Participation en équipe sous le nom *Osint Special Squad 117*
 - Résultat 🥇 : **Top 3/378** et qualifié pour la grande finale
+- Seulement 9 équipes ont fini entièrement
 - Investigation complète autour de hackers recherchés (fictif)
 - Rédaction d’un write-up complet disponible ici [Inserer WU]
 
@@ -27,6 +28,7 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 
 - Participation en solo sous le nom d'équipe *OneForAll*
 - Résultat 🥇 : **Top 17/134** en étant premier des personnes seules
+- Seulement 22 équipes ont fini entièrement
 - Investigation complète autour d’un leak médical fictif
 - Rédaction d’un write-up complet disponible le 3 Juin.
 
