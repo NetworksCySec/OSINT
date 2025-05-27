@@ -9,7 +9,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ## 📌 Sommaire
 
-- [Déclare ton équipe](#1-declaretonequipe)
+- [Déclare ton équipe](#1-dclare-ton-quipe)
 - [Remember](#2-remember)
 - [Interview](#3-interview)
 - [Qui es-tu ?](#4-quiestu)
