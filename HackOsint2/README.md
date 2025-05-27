@@ -50,7 +50,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
   
 ### 1. Declare ton equipe
 
-![image](./HackOsint2/ImagesCTF/1.png)
+![image](./ImagesCTF/1.png)
 
 **🎯 Flag :** `Notre token`
 
