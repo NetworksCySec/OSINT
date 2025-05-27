@@ -2,8 +2,9 @@
 
 _Type : CTF OSINT  
 Date : Mai 2025  
-Classement 🥇 : **Top 3/378** (qualifiés pour la finale)
-Réalisé en équipe de 4 avec Yukss/Emerald/Nyxou sous le nom d'équipe **OsintSpecialSquad117**_
+Classement 🥇 : **Top 3/378** (qualifiés pour la finale)_
+
+_Réalisé en équipe de 4 avec Yukss/Emerald/Nyxou sous le nom d'équipe **OsintSpecialSquad117**_
 
 _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre dans lequel on les a trouvé._
 
