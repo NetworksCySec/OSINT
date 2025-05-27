@@ -9,10 +9,10 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ## 📌 Sommaire
 
-- [Déclare ton équipe](#1-dclare-ton-quipe)
+- [Declare ton équipe](#1-declare-ton-equipe)
 - [Remember](#2-remember)
 - [Interview](#3-interview)
-- [Qui es-tu ?](#4-quiestu)
+- [Qui es-tu](#4-quiestu)
 - [Pseudonyme](#5-pseudonyme)
 - [Première approche](#6-premiereapproche)
 - [Vacances entre amis](#7-vacancesentreamis)
@@ -47,7 +47,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 - [TocTocToc](#36-toctoctoc)
 - [Challenge Indéfini](#37-challengeindefini)
   
-### 1. Déclare ton équipe
+### 1. Declare ton équipe
 
 ![image](https://github.com/user-attachments/assets/bbf6fe98-0739-46b6-934c-19eaf292a7e7)
 
@@ -74,7 +74,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ---
 
-### 4. Qui es-tu ? 
+### 4. Qui es-tu 
 
 ![image](https://github.com/user-attachments/assets/da10133e-c1fb-44a3-8501-215fa4016296)
 
