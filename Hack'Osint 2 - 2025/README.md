@@ -9,45 +9,45 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ## 📌 Sommaire
 
-- [Declare ton équipe](#1-declare-ton-equipe)
+- [Declare ton equipe](#1-declare-ton-equipe)
 - [Remember](#2-remember)
 - [Interview](#3-interview)
 - [Qui es-tu](#4-qui-es-tu)
 - [Pseudonyme](#5-pseudonyme)
-- [Première approche](#6-premiereapproche)
-- [Vacances entre amis](#7-vacancesentreamis)
-- [Identité](#8-identite)
-- [Un chanceux](#9-unchanceux)
-- [Double identité](#10-doubleidentite)
-- [Où es-tu ?](#11-ouestu)
-- [Révèle ton secret](#12-reveletonsecret)
+- [Premiere approche](#6-premiere-approche)
+- [Vacances entre amis](#7-vacances-entre-amis)
+- [Identite](#8-identite)
+- [Un chanceux](#9-un-chanceux)
+- [Double identite](#10-double-identite)
+- [Ou es-tu](#11-ou-es-tu)
+- [Revele ton secret](#12-revele-ton-secret)
 - [Combien d'Hivers ?](#13-combiendhiver)
-- [Les amoureuses](#14-lesamoureuses)
-- [Joyeux anniversaire !](#15-joyeuxanniversaire)
-- [HOTEL CALIFORNIA ?](#16-hotelcalifornia)
+- [Les amoureuses](#14-les-amoureuses)
+- [Joyeux anniversaire](#15-joyeux-anniversaire)
+- [HOTEL CALIFORNIA](#16-hotel-california)
 - [CCTV](#17-cctv)
-- [L'élément clé](#18-lelementcle)
+- [L'element cle](#18-lelementcle)
 - [Communication](#19-communication)
-- [Le côté obscur](#20-lecoteobscur)
-- [Pardon, vous êtes ?](#21-pardonvousetes)
-- [Pseudonyme 2](#22-pseudonyme2)
-- [Home Sweet Home](#23-homesweethome)
-- [Envole-toi !](#24-envoletoi)
-- [Objectif EAGLE](#25-objectifeagle)
-- [Nouvelle cible 2](#26-nouvellecible2)
-- [Petit bateau](#27-petitbateau)
-- [Site vitrine 1](#28-sitevitrine1)
-- [L'allié](#29-lallie)
-- [Jour J](#30-jourj)
-- [Mine d'or](#31-minedor)
-- [L'oublié(e)](#32-loublie)
-- [Une drôle d'entreprise](#33-unedroledentreprise)
-- [Site vitrine 2](#34-sitevitrine2)
-- [Discrétion assurée !](#35-discretionassuree)
+- [Le cote obscur](#20-le-cote-obscur)
+- [Pardon vous etes](#21-pardon-vous-etes)
+- [Pseudonyme 2](#22-pseudonyme-2)
+- [Home Sweet Home](#23-home-sweet-home)
+- [Envole-toi](#24-envole-toi)
+- [Objectif EAGLE](#25-objectif-eagle)
+- [Nouvelle cible 2](#26-nouvelle-cible-2)
+- [Petit bateau](#27-petit-bateau)
+- [Site vitrine 1](#28-site-vitrine-1)
+- [L'allie](#29-lallie)
+- [Jour J](#30-jour-j)
+- [Mine d'or](#31-mine-dor)
+- [L'oublié(e)](#32-l-oubliee)
+- [Une drole d'entreprise](#33-unedroledentreprise)
+- [Site vitrine 2](#34-site-vitrine-2)
+- [Discretion assuree](#35-discretion-assuree)
 - [TocTocToc](#36-toctoctoc)
-- [Challenge Indéfini](#37-challengeindefini)
+- [Challenge Indefini](#37-challenge-indefini)
   
-### 1. Declare ton équipe
+### 1. Declare ton equipe
 
 ![image](https://github.com/user-attachments/assets/bbf6fe98-0739-46b6-934c-19eaf292a7e7)
 
@@ -97,7 +97,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ---
 
-### 6. Première approche
+### 6. Premiere approche
 
 ![image](https://github.com/user-attachments/assets/671ad762-1539-4bae-aebe-b3a59378d6db)
 
@@ -131,7 +131,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ---
 
-### 8. Identité
+### 8. Identite
 
 ![image](https://github.com/user-attachments/assets/df97c9cb-373f-472f-9759-882c758c2efa)
 
@@ -153,7 +153,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ---
 
-### 10. Double identité
+### 10. Double identite
 
 ![image](https://github.com/user-attachments/assets/5a129d38-75fc-4412-956c-a051f4d358b0)
 
@@ -164,7 +164,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ---
 
-### 11. Où es-tu ?
+### 11. Ou es tu
 
 ![image](https://github.com/user-attachments/assets/44c5b1f5-9611-473a-8b73-95fae7a8a75d)
 
@@ -178,7 +178,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ---
 
-### 12. Révèle ton secret
+### 12. Revele ton secret
 
 ![image](https://github.com/user-attachments/assets/0c15427f-8e98-418f-90cb-5ca1090411dd)
 
@@ -228,7 +228,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ---
 
-### 15. Joyeux anniversaire !
+### 15. Joyeux anniversaire
 
 ![image](https://github.com/user-attachments/assets/147883bb-87ca-44ca-a10a-6057f6046713)
 
@@ -243,7 +243,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ---
 
-### 16. HOTEL CALIFORNIA ?
+### 16. HOTEL CALIFORNIA
 
 ![image](https://github.com/user-attachments/assets/f92fea68-fa4f-4e0e-a06b-da895091d05d)
 
@@ -313,7 +313,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ---
 
-### 20. Le côté obscur
+### 20. Le cote obscur
 
 ![image](https://github.com/user-attachments/assets/c10a9beb-4ada-4070-8142-a4a2d4ef3af9)
 
@@ -323,7 +323,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ---
 
-### 21. Pardon, vous êtes ?
+### 21. Pardon vous etes
 
 ![image](https://github.com/user-attachments/assets/9ec27873-48c5-4dfa-a109-590581c37a3d)
 
@@ -360,7 +360,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ---
 
-### 24. Envole-toi !
+### 24. Envole-toi
 
 ![image](https://github.com/user-attachments/assets/a6f58d73-afb7-4ff9-aa8f-d431dd26a9bb)
 
@@ -539,7 +539,7 @@ Sur Maps, on peut reconnaitre facilement deux endroits collés au point rouge :
 
 ---
 
-### 35. Discrétion assurée !
+### 35. Discretion assuree
 
 ![image](https://github.com/user-attachments/assets/468d5b4b-3e47-44a3-969e-a9ab1cd27691)
 
@@ -576,7 +576,7 @@ Sur Maps, on peut reconnaitre facilement deux endroits collés au point rouge :
 
 ---
 
-### 37. Challenge Indéfini
+### 37. Challenge Indefini
 
 ![image](https://github.com/user-attachments/assets/ec750380-5d97-40c9-ba20-374896bb2377)
 
