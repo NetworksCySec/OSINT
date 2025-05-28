@@ -148,7 +148,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 ![image](./ImagesCTF/8.png)
 
 > En regardant les dates d'arrestation on a vu qu'elles se situaient le 23 juin.
-> Challenge qui nous a couté la moitié de nos fails (2), en se basant sur ces commentaires Tripadvisor qui concordaient au niveau des dates en emmenant vers le marché d'APT.
+> Challenge qui nous a couté plus de la moitié de nos fails (2), en se basant sur ces commentaires Tripadvisor qui concordaient au niveau des dates en emmenant vers le marché d'APT.
 > En regardant par la suite son [carnet de voyage](https://www.myatlas.com/HenryBethune?t=user&q=Henrybethune) on a vu qu'il se trouvait au Japon, et avec les photo on voit que c'est au "Chanko & Wanko Restaurant" (avec le décalage horaire).
 
 **🎯 Flag :** ![image](./ImagesCTF/88.png)
