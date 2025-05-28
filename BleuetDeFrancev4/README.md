@@ -1,4 +1,4 @@
-# Write-up – Bleut de France v4
+# Write-up – Bleuet de France v4
 
 _Type : CTF OSINT  
 Date : Mai 2025  
