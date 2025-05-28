@@ -6,7 +6,7 @@ Classement 🥇 : Pas de résultat attendu, CTF historique et mémoriel_
 
 _Réalisé en solo sous le nom d'équipe **OneForAll** (même si je dis nous/je/on)_
 
-_Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre dans lequel je les ai trouvé._
+_Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre dans lequel je les ai trouvés._
 
 ## 📌 Sommaire
 
@@ -114,7 +114,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 ![image](./ImagesCTF/6.png)
 
 > Encore une fois un reverse image.
-> On trouve rapidement que c'est l'église de la ville de Caen, et en se promnenant sur Maps pour essayer de trouver la rue on finit par trouver le bon angle.
+> On trouve rapidement que c'est l'église de la ville de Caen, et en se promenant sur Maps pour essayer de trouver la rue on finit par trouver le bon angle.
 
 ![image](./ImagesCTF/61.png)
 
@@ -130,8 +130,8 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ![image](./ImagesCTF/71.png)
 
-> Mais connaissant sa fiabilité sur ce genre de date il faut croisé avec une autre donnée.
-> En cherchant sur Internet on finir par tomber sur le [bon site](https://museedelaresistanceenligne.org/media811-Billet-de-banque-AMGOT-recto-verso).
+> Mais connaissant sa fiabilité sur ce genre de date il faut croisée avec une autre donnée.
+> En cherchant sur Internet on finit par tomber sur le [bon site](https://museedelaresistanceenligne.org/media811-Billet-de-banque-AMGOT-recto-verso).
 > On regarde le contexte historique et on trouve 1947.
 
 **🎯 Flag :** `1947`
@@ -181,7 +181,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 ![image](./ImagesCTF/1111.png)
 
-> On voit écrit US 522, avec une recherche on voit que le nom exacte est USS LCI(L)-522 qu'on peut par exemple trouver [ici](https://uboat.net/allies/warships/ship/21586.html).
+> On voit écrit US 522, avec une recherche on voit que le nom exact est USS LCI(L)-522 qu'on peut par exemple trouver [ici](https://uboat.net/allies/warships/ship/21586.html).
 > Sur le même site, on trouve ce qu'on recherche.
 
 ![image](./ImagesCTF/1112.png)
@@ -222,7 +222,7 @@ On tape ensuite le nom du régiment sur internet et [Wikipedia](https://fr.wikip
 
 ![image](./ImagesCTF/14.png)
 
-> Ce challenge s'est fait en 3 etapes, dans un premier temps un reverse sur l'image pour trouver que c'est "La Rue Saint-Dominique et la Tour Eiffel" de Maurice Utrillo.
+> Ce challenge s'est fait en 3 étapes, dans un premier temps un reverse sur l'image pour trouver que c'est "La Rue Saint-Dominique et la Tour Eiffel" de Maurice Utrillo.
 > Ensuite un coup de ChatGPT avec les informations qu'on vient d'avoir pour se rendre compte qu'il est 22 rue de France à Nice.
 > On cherche dans les alentours sur Maps et on trouve la bonne plaque.
 
@@ -246,7 +246,7 @@ On tape ensuite le nom du régiment sur internet et [Wikipedia](https://fr.wikip
 
 ![image](./ImagesCTF/16.png)
 
-> Sur la page du [CTF](https://bleuet.aege.fr/) se toruve un article qui explique tout.
+> Sur la page du [CTF](https://bleuet.aege.fr/) se trouve un article qui explique tout.
 
 ![image](./ImagesCTF/161.png)
 
@@ -323,7 +323,7 @@ On tape ensuite le nom du régiment sur internet et [Wikipedia](https://fr.wikip
 ![image](./ImagesCTF/27.png)
 
 > Avec un reverse on tombe tout de suite sur [https://archives.valdemarne.fr/paroles-des-annees-noires/fiche-contextuelles/la-liberation-de-la-france](https://archives.valdemarne.fr/paroles-des-annees-noires/fiche-contextuelles/la-liberation-de-la-france?arko_default_62d93d434b7f2--ficheFocus=&arko_default_62d9118a0d1ad--ficheFocus=)
-> On cherche ensuite le régiment de Marcel Godefroy et on à la resultat.
+> On cherche ensuite le régiment de Marcel Godefroy et on a le résultat.
 
 **🎯 Flag :** `126_eme_regiment_d_infanterie`
 
@@ -336,7 +336,7 @@ On tape ensuite le nom du régiment sur internet et [Wikipedia](https://fr.wikip
 > Le texte est beaucoup plus long mais pas la place !
 > A première vue... ça a l'air compliqué.
 > Après avoir tenté de rechercher mot par mot tout ce qui était écrit dans le texte, sillonné la Provence de long en large, on finit par se rendre compte qu'il y a beaucoup de nombres dans le texte...
-> En les rassemblant et en coupant la poire en deux, on obtient des coordonnées qui emmene précisement à la grotte des résistants
+> En les rassemblant et en coupant la poire en deux, on obtient des coordonnées qui emmène précisement à la grotte des résistants
 
 ![image](./ImagesCTF/221.png)
 
