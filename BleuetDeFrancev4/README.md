@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1df0799f-d592-4fd9-857e-ad4d3f0ecba7)# Write-up – Bleut de France v4
+# Write-up – Bleut de France v4
 
 _Type : CTF OSINT  
 Date : Mai 2025  
