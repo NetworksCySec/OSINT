@@ -172,7 +172,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 > Toujours sur le [MyAtlas](https://www.myatlas.com/HenryBethune?t=user&q=Henrybethune) on voit qu'Hotel possède un compte Snapchat :
 
-![image](./ImagesCTF/101.pngb)
+![image](./ImagesCTF/101.png)
 
 > En regardant ses stories on aperçoit une photo à Disneyland Paris.
 
