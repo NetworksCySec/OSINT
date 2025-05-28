@@ -47,6 +47,7 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 - [Discretion assuree](#35-discretion-assuree)
 - [TocTocToc](#36-toctoctoc)
 - [Challenge Indefini](#37-challenge-indefini)
+- [Techniques utilisees](#techniques-utilisees)
   
 ### 1. Declare ton equipe
 
@@ -586,5 +587,103 @@ Sur Maps, on peut reconnaitre facilement deux endroits collés au point rouge :
 **🎯 Flag :** `EndOfWatch`
 
 ---
+
+## Techniques utilisees
+
+Voici un récapitulatif des techniques, outils, sites et pivots utilisés tout au long du CTF :
+
+### 🌐 Recherche web & réseaux sociaux
+
+- Investigation d’identités numériques :
+  - Facebook, Instagram, Threads, Mastodon, Bluesky
+  - Recherche croisée sur :
+    - [idcrawl.com](https://idcrawl.com)
+    - [usercheck.oscarzulu.org](https://usercheck.oscarzulu.org)
+    - [instantusername.com](https://instantusername.com)
+- Exploration de profils divers :
+  - Chess.com, Vinted, TripAdvisor, MyAtlas
+- Recherche dans :
+  - [Medium](https://medium.com)
+  - [Linktree](https://linktr.ee)
+  - Google Calendar public
+- Analyse d’éléments de profil :
+  - Bios, stories, publications, tags, métadonnées sociales
+- Recherche avancée sur Telegram :
+  - Historique de messages, médias partagés, pseudonymes
+
+---
+
+### 🧠 Analyse sémantique & pivot logique
+
+- Lecture attentive d’interviews, stories et dialogues (Cryptpad)
+- Déduction d’identités, relations, lieux, dates à partir de :
+  - Objets visibles (t-shirt, tatouage, drapeau, etc.)
+  - Conversations privées et publiques
+- Croisements multi-sources (Facebook + Cryptpad + Threads, etc.)
+
+---
+
+### 🕵️‍♂️ Investigation technique & fichiers
+
+- Analyse de documents et métadonnées :
+  - `.glb`, `.docx`, `.pdf`, `.txt`, images
+- Décodage de contenus :
+  - QR Codes, code-barres, cartes vitales, tatouages
+- Extraction de données via code source :
+  - `robots.txt`, chemins cachés (`/private/`, `/logs/`, `/dashboard.html`, etc.)
+  - Lecture conditionnelle (mode sombre pour révéler du contenu)
+
+---
+
+### 🧩 Analyse de sites et interactions serveur
+
+- User-Agent spoofing pour contourner des restrictions d’accès
+- Exploration manuelle de fichiers cachés ou non liés :
+  - Guessing d’URL (`/view_logs`, `/archives`, `/index.php`, etc.)
+  - Lecture du code HTML/JS pour extraire des chemins ou fonctions inactives
+- Recherche via services WHOIS/DNS :
+  - [Whoxy](https://www.whoxy.com)
+  - [Censys](https://search.censys.io)
+
+---
+
+### 🌍 Géolocalisation & GEOINT
+
+- Recherche d’images inversées (Google Images, reconnaissance visuelle)
+- Croisement d’informations visuelles avec Google Maps / Street View
+- Analyse de vidéos Vimeo pour repérer un lieu via perspective et sons ambiants
+- Identification de lieux à partir de détails mineurs (ex : boulangerie, tag, mur, etc.)
+
+---
+
+### 🚢 Pistes maritimes & infrastructure
+
+- Recherche d’un navire via [MarineTraffic](https://www.marinetraffic.com)
+  - MMSI, nom du bateau, call sign, lien vers un site vitrine
+- Identification d’infrastructures dissimulées :
+  - IP publiques de serveurs, chemins internes
+
+---
+
+### 💬 Plateformes secondaires & messageries
+
+- Cryptpad (fichiers, conversations)
+- Telegram (groupes, fichiers joints, dates)
+- WhatsApp (via numéro extrait d’une image)
+- Analyse indirecte de Discord, via captures d’écran
+
+---
+
+### 🧠 Typologie des OSINT mobilisés
+
+- **OSINT Humain** : relations personnelles, doubles identités, pseudonymes
+- **OSINT Réseau** : fouille de sites web, fichiers cachés, IP/serveurs
+- **OSINT Lieu** : géolocalisation d’après indices photo/vidéo
+- **OSINT Documentaire** : PDF, métadonnées, devis, captures
+- **OSINT Social Media** : Facebook, Threads, Bluesky, Instagram, Vinted
+- **OSINT Technique** : reverse léger, détection d’interfaces, paramètres d’app
+
+---
+
 <!-- Hashtags pour référencement -->
 #OSINT #Cybersecurity #CTF #ThreatIntelligence #Investigation #Renseignement
