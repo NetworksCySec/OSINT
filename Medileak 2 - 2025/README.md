@@ -2,8 +2,9 @@
 
 _Type : CTF OSINT  
 Date : Mai 2025  
-Classement 🥇 : **Top 17/134** en étant premier des personnes seules (équipe de 4 sinon)
-Réalisé en solo sous le nom d'équipe **OneForAll** (même si je dis nous/je/on)_
+Classement 🥇 : **Top 17/134** en étant premier des personnes seules (équipe de 4 sinon), 22 équipes ont fini au total_
+
+_Réalisé en solo sous le nom d'équipe **OneForAll** (même si je dis nous/je/on)_
 
 _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre dans lequel je les ai trouvé._
 
