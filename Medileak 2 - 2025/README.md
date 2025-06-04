@@ -334,11 +334,9 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 
 > Sur [finint.ninja](https://finint.ninja/companies/advanced-medical-system-none/), les coordonnées d'AMS mènent à un château sur Google Maps.
 
-![image](./ImagesCTF/221.png)  
-
 > On tombe sur un château (ce qui correspond parfaitement au jeu de mots du nom du défi). 
 
-**🎯 Flag :** ![image](./ImagesCTF/222.png)
+**🎯 Flag :** ![image](./ImagesCTF/221.png)
 
 ---
 
