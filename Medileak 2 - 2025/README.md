@@ -6,7 +6,7 @@ Classement 🥇 : **Top 17/134** en étant premier des personnes seules (équipe
 
 _Réalisé en solo sous le nom d'équipe **OneForAll** (même si je dis nous/je/on)_
 
-_Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre dans lequel je les ai trouvé. Il n'y a évidemment pas la finale._
+_Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre dans lequel je les ai trouvé. Il n'y a évidement pas la finale._
 
 ## 📌 Sommaire
 
