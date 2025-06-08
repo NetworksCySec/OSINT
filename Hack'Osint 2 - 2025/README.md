@@ -1,4 +1,4 @@
-# 📊 Participations et résultats Hack'OSINT
+# 📊 Participations et résultats du Hack'OSINT
 
 ---
 
