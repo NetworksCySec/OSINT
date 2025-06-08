@@ -15,163 +15,236 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 - [TocTocToc](#3-toctoctoc)
 - [Mon amie](#4-mon-amie)
 - [H Solve](#5-h-solve)
-- [G Solve](#6-g-solve)
-- [Il etait une fois](#7-il-etait-une-fois)
-- [Politique d'envoi](#8-politique-d-envoi)
-- [Une passion](#9-une-passion)
-- [Tout est lie](#10-tout-est-lie)
-- [F Solve](#11-f-solve)
-- [Bienvenue](#12-bienvenue)
-- [Drôle d'individu 3](#13-drole-d-individu-3)
-- [Une adresse ? Où ca ?!](#14)
-- [Drôle d'individu 2](#15)
-- [Au soleil](#16-au-soleil)
-- [Drôle d'individu 1](#17)
-- [Monsieur X](#18-monsieur-x)
-- [Drôle d'individu 4](#19)
-- [El creator](#18-el-creator)
+- [En public](#6-en-public)
+- [G Solve](#7-g-solve)
+- [Il etait une fois](#8-il-etait-une-fois)
+- [Politique d'envoi](#9-politique-d-envoi)
+- [Une passion](#10-une-passion)
+- [Tout est lie](#11-tout-est-lie)
+- [F Solve](#12-f-solve)
+- [Bienvenue](#13-bienvenue)
+- [Drôle d'individu 3](#14-drole-d-individu-3)
+- [Une adresse ? Où ca ?!](#15)
+- [Entree gratuite](#16-entree-gratuite)
+- [Drôle d'individu 2](#17)
+- [Au soleil](#18-au-soleil)
+- [Drôle d'individu 1](#19)
+- [Monsieur X](#20-monsieur-x)
+- [Drôle d'individu 4](#21)
+- [El creator](#22-el-creator)
   
 ### 1. CN Solve
 
 ![image](../ImagesCTF/1.png)
 
-> 
+> Dans la salle de Charlotte Nectoux de nombreux élément étaient reliés entre eux par des fils (éléments qui nous serviront par la suite)
+> En parlant avec le directeur de Charlotte (RP) présent dans la salle on finit par savoir que la société s'appelle Mysterio et qu'elle a été crée en 2025.
+> En le distrayant on arrive à récupérer le badge initialement dans sa poche et à sortir de la salle.
+> Avec un lecteur RFID, son badge nous indique "ID RS AGENCE : 7481703571864978455"
+
+![image](../ImagesCTF/11.png)
 
 **🎯 Flag :** `2025_7481703571864978455`
 
 ---
 
-### 1. Declare ton equipe
+### 2. Site vitrine
 
-![image](../ImagesCTF/1.png)
+![image](../ImagesCTF/2.png)
+
+> Avec la phrase récupérer grace au badge on en déduit qu'un des réseaux sociaux (ID RS) va nous aider à avancer.
+> En rentrant ces numéros sur tiktok (/@7481703571864978455) on tombe sur [leur entreprise](https://www.tiktok.com/@mystoriagency).
+
+![image](../ImagesCTF/21.png)
+
+> En connaissant maintenant le nom de l'entreprise complet on tombe rapidement sur leur [site](https://mystoriagency.pro/).
+
+**🎯 Flag :** `mystoriagency.pro`
+
+---
+
+### 3. TocTocToc
+
+![image](../ImagesCTF/3.png)
+
+> Le nom du challenge a réveillé des traumatismes encore récent, mais il fallait continuer...
+
+
+**🎯 Flag :** `ENTRER VILLE`
+
+---
+
+### 4. Mon amie
+
+![image](../ImagesCTF/4.png)
+
+> Sur le site on voit qu'on peut cliquer sur différents profils et que le nom est dans l'url.
+
+![image](../ImagesCTF/41.png)
+
+> Sur cette base là on écrit charlottenectoux, on tombe bien sur son profil et sur ses relations, dont une seule lui écrit des commentaires, Anne Franck.
+
+![image](../ImagesCTF/42.png)
+
+> En cliquant sur "Contacter" on récupère son adresse mail : annefranck74000@mystoria.fr et en cherchant son pseudo sur les différents réseaux on finit par tomber sur son Pinterest.
+
+![image](../ImagesCTF/43.png)
+
+**🎯 Flag :** `Annelies Marie Aude Franck`
+
+---
+
+### 5. H Solve
+
+![image](../ImagesCTF/5.png)
+
+> Nouvelle salle en physique, on récupère les informations dans la pièce et au tableau dans un premier temps, ainsi qu'une paire de jumelles.
+> En regardant à travers la fenêtre on observe dehors un homme de dos en train de téléphoner, avec sur son t-shirt un site internet : Adopte un phishing.
+
+**🎯 Flag :** `adopteunphishing`
+
+---
+
+### 6. En public
+
+![image](../ImagesCTF/8.png)
+
+> En ayant le nom du site on cherche dans les .x les plus connus, et .eu nous donne la réponse.
+
+![image](../ImagesCTF/81.png)
+
+**🎯 Flag :** `adopteunphishing.eu`
+
+---
+
+### 7. G Solve
+
+![image](../ImagesCTF/6.png)
+
+> Encore une salle en physique, et cette fois des plus musclés !
+> En cherchant et en notant là-encore tout ce qu'on voit, je finis par trouver un bout de papier caché derrière la télé.
+> Avant même d'avoir eu le temps de lire la note, je me fais attraper par deux personnes capuché dans une autre salle et me retrouve à passer un interrogatoire.
+> Sans le savoir les autres faisaient la même chose de l'autre coté, et nous étions jugés sur la cohérence de nos histoires.
+
+**🎯 Flag :** `LotusBlood`
+
+---
+
+### 8. Il etait une fois
+
+![image](../ImagesCTF/7.png)
 
 **🎯 Flag :** `Notre token`
 
 ---
 
-### 1. Declare ton equipe
+### 9. Politique d'envoi
 
-![image](../ImagesCTF/1.png)
-
-**🎯 Flag :** `Notre token`
-
----
-
-### 1. Declare ton equipe
-
-![image](../ImagesCTF/1.png)
+![image](../ImagesCTF/9.png)
 
 **🎯 Flag :** `Notre token`
 
 ---
 
-### 1. Declare ton equipe
+### 10. Une passion
 
-![image](../ImagesCTF/1.png)
-
-**🎯 Flag :** `Notre token`
-
----
-
-### 1. Declare ton equipe
-
-![image](../ImagesCTF/1.png)
+![image](../ImagesCTF/100.png)
 
 **🎯 Flag :** `Notre token`
 
 ---
 
-### 1. Declare ton equipe
+### 11. Tout est lié
 
-![image](../ImagesCTF/1.png)
-
-**🎯 Flag :** `Notre token`
-
----
-
-### 1. Declare ton equipe
-
-![image](../ImagesCTF/1.png)
+![image](../ImagesCTF/110.png)
 
 **🎯 Flag :** `Notre token`
 
 ---
 
-### 1. Declare ton equipe
+### 12. F Solve
 
-![image](../ImagesCTF/1.png)
-
-**🎯 Flag :** `Notre token`
-
----
-
-### 1. Declare ton equipe
-
-![image](../ImagesCTF/1.png)
+![image](../ImagesCTF/120.png)
 
 **🎯 Flag :** `Notre token`
 
 ---
 
-### 1. Declare ton equipe
+### 13. Bienvenue
 
-![image](../ImagesCTF/1.png)
-
-**🎯 Flag :** `Notre token`
-
----
-
-### 1. Declare ton equipe
-
-![image](../ImagesCTF/1.png)
+![image](../ImagesCTF/130.png)
 
 **🎯 Flag :** `Notre token`
 
 ---
 
-### 1. Declare ton equipe
+### 14. Drôle d'individu 3
 
-![image](../ImagesCTF/1.png)
-
-**🎯 Flag :** `Notre token`
-
----
-
-### 1. Declare ton equipe
-
-![image](../ImagesCTF/1.png)
+![image](../ImagesCTF/140.png)
 
 **🎯 Flag :** `Notre token`
 
 ---
 
-### 1. Declare ton equipe
+### 15. Une adresse ? Où ca ?!
 
-![image](../ImagesCTF/1.png)
-
-**🎯 Flag :** `Notre token`
-
----
-
-### 1. Declare ton equipe
-
-![image](../ImagesCTF/1.png)
+![image](../ImagesCTF/150.png)
 
 **🎯 Flag :** `Notre token`
 
 ---
 
-### 1. Declare ton equipe
+### 16. Entree gratuite
 
-![image](../ImagesCTF/1.png)
+![image](../ImagesCTF/160.png)
 
 **🎯 Flag :** `Notre token`
 
 ---
 
-### 1. Declare ton equipe
+### 17. Drôle d'individu 2
 
-![image](../ImagesCTF/1.png)
+![image](../ImagesCTF/170.png)
+
+**🎯 Flag :** `Notre token`
+
+---
+
+### 18. Au soleil
+
+![image](../ImagesCTF/180.png)
+
+**🎯 Flag :** `Notre token`
+
+---
+
+### 19. Drôle d'individu 1
+
+![image](../ImagesCTF/190.png)
+
+**🎯 Flag :** `Notre token`
+
+---
+
+### 20. Monsieur X
+
+![image](../ImagesCTF/200.png)
+
+**🎯 Flag :** `Notre token`
+
+---
+
+### 21. Drôle d'individu 4
+
+![image](../ImagesCTF/210.png)
+
+**🎯 Flag :** `Notre token`
+
+---
+
+### 22. El creator
+
+![image](../ImagesCTF/220.png)
 
 **🎯 Flag :** `Notre token`
 
