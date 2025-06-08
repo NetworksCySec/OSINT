@@ -31,11 +31,13 @@ _Tous les flags ne sont pas dans le meilleur ordre possible, mais c'est l'ordre 
 - [Drôle d'individu 4](#19)
 - [El creator](#18-el-creator)
   
-### 1. Declare ton equipe
+### 1. CN Solve
 
 ![image](../ImagesCTF/1.png)
 
-**🎯 Flag :** `Notre token`
+> 
+
+**🎯 Flag :** `2025_7481703571864978455`
 
 ---
 
