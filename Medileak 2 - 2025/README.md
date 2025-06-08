@@ -721,3 +721,4 @@ Voici un récapitulatif exhaustif des techniques, outils, sites et pivots utilis
 - **Social Engineering passif** : interprétation de dialogues OIW & comportements
 
 ---
+#OSINT #Cybersecurity #CTF #ThreatIntelligence #Investigation #Renseignement
