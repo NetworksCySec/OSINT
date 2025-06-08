@@ -1,4 +1,4 @@
-# Write-up – HACK'OSINT 2
+# Write-up – HACK'OSINT 2 - Grande Finale
 
 _Type : CTF OSINT  
 Date : Mai 2025  
