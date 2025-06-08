@@ -2,7 +2,7 @@
 
 _Type : CTF OSINT  
 Date : Mai 2025  
-Classement 🥇 : Pas de résultat attendu, CTF historique et mémoriel_
+Classement 🏅 : Pas de résultat attendu, CTF historique et mémoriel_
 
 _Réalisé en solo sous le nom d'équipe **OneForAll** (même si je dis nous/je/on)_
 
