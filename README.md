@@ -8,6 +8,7 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 
 | 🗓️ Année | 🧩 CTF                             | 👥 Équipe / Solo                   | 🏛️ Organisateur          | 🏅 Résultat                      |
 |----------|-------------------------------------|------------------------------------|--------------------------|-----------------------------------|
+| 2025     | 🏦​ Mission Vérité CTF #BIG2025      | Osint Special Squad 117 (équipe)   | HACK'OLYTE/Blaireaux des Légendes| 🥉 Top 3 / 236   |
 | 2025     | 🦊 Hack'Osint 2                     | Osint Special Squad 117 (équipe)   | HACK'OLYTE               | 🥈 Top 2 / 378 (grande finale)   |
 | 2025     | 🦏 Medileak 2                       | OneForAll (solo)                   | Oscar Zulu               | 🏅 Top 17 / 134 (1er solo)       |
 | 2025     | 🪖 Bleuet de France v4              | OneForAll (solo)                   | AEGE                     | 📌 Pas de classement             |
@@ -16,6 +17,13 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 
 ## 📊 Détails 
 
+### 🏦 Mission Vérité CTF #BIG2025  — **septembre 2025**
+
+- Participation en équipe sous le nom *Osint Special Squad 117*
+- Résultat 🥉 : **Top 3/378** en grande finale
+- Investigation complète autour de quatre personnages plongés dans la manipulation et la désinformation.
+- Rédaction de writes-up complets [disponibles ici]((https://github.com/NetworksCySec/OSINT/tree/main/Mission%20V%C3%A9rit%C3%A9%20CTF%20%23BIG2025)).
+  
 ### 🦊 Hack'Osint 2 CTF — **mai 2025**
 
 - Participation en équipe sous le nom *Osint Special Squad 117*
