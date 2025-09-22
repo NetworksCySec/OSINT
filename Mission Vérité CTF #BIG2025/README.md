@@ -1,4 +1,4 @@
-# Write-up – Mission Vérité CTF #BIG2025
+# Write-up – 🏦​ Mission Vérité CTF #BIG2025
 
 _Type : CTF OSINT  
 Date : Septembre 2025  
