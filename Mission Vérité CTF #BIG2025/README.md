@@ -56,7 +56,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 1. Prologue
 
-![image](/ImagesCTF/1.png)
+![image](./ImagesCTF/1.png)
 
 **🎯 Flag :** `Notre token`
 
