@@ -20,7 +20,7 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 ### 🏦 Mission Vérité CTF #BIG2025  — **septembre 2025**
 
 - Participation en équipe sous le nom *Osint Special Squad 117*
-- Résultat 🥉 : **Top 3/378** en grande finale
+- Résultat 🥉 : **Top 3/378**
 - Investigation complète autour de quatre personnages plongés dans la manipulation et la désinformation.
 - Rédaction d'un write-up [disponible ici](https://github.com/NetworksCySec/OSINT/tree/main/Mission%20V%C3%A9rit%C3%A9%20CTF%20%23BIG2025).
   
