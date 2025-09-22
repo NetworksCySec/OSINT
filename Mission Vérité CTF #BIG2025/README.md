@@ -64,7 +64,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 2. Arthur
 
-![image](../ImagesCTF/2.png)
+![image](./ImagesCTF/2.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -72,7 +72,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 3. Djibril
 
-![image](../ImagesCTF/3.png)
+![image](./ImagesCTF/3.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -80,7 +80,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 4. Charlotte
 
-![image](../ImagesCTF/4.png)
+![image](./ImagesCTF/4.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -88,7 +88,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 5. Charlotte-2
 
-![image](../ImagesCTF/5.png)
+![image](./ImagesCTF/5.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -96,7 +96,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 6. Charlotte-3
 
-![image](../ImagesCTF/6.png)
+![image](./ImagesCTF/6.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -104,7 +104,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 7. Charlotte-4
 
-![image](../ImagesCTF/7.png)
+![image](./ImagesCTF/7.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -112,7 +112,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 8. Celia
 
-![image](../ImagesCTF/8.png)
+![image](./ImagesCTF/8.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -120,7 +120,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 9. Celia-2
 
-![image](../ImagesCTF/9.png)
+![image](./ImagesCTF/9.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -128,7 +128,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 10. Djibril-2
 
-![image](../ImagesCTF/10.png)
+![image](./ImagesCTF/10.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -136,7 +136,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 11. Arthur-2
 
-![image](../ImagesCTF/11.png)
+![image](./ImagesCTF/11.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -144,7 +144,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 12. Arthur-3
 
-![image](../ImagesCTF/12.png)
+![image](./ImagesCTF/12.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -152,7 +152,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 13. Djibril-3
 
-![image](../ImagesCTF/13.png)
+![image](./ImagesCTF/13.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -160,7 +160,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 14. Celia-3
 
-![image](../ImagesCTF/14.png)
+![image](./ImagesCTF/14.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -168,7 +168,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 15. Celia-4
 
-![image](../ImagesCTF/15.png)
+![image](./ImagesCTF/15.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -176,7 +176,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 16. Arthur-4
 
-![image](../ImagesCTF/16.png)
+![image](./ImagesCTF/16.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -184,7 +184,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 17. Arthur-5
 
-![image](../ImagesCTF/17.png)
+![image](./ImagesCTF/17.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -192,7 +192,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 18. Epilogue
 
-![image](../ImagesCTF/18.png)
+![image](./ImagesCTF/18.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -200,7 +200,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 19. Note intermediaire
 
-![image](../ImagesCTF/19.png)
+![image](./ImagesCTF/19.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -208,7 +208,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 20. Je m'engage
 
-![image](../ImagesCTF/20.png)
+![image](./ImagesCTF/20.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -216,7 +216,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 21. Le proprietaire
 
-![image](../ImagesCTF/21.png)
+![image](./ImagesCTF/21.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -224,7 +224,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 22. Le Mask tombe
 
-![image](../ImagesCTF/22.png)
+![image](./ImagesCTF/22.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -232,7 +232,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 23. Le fil conducteur
 
-![image](../ImagesCTF/23.png)
+![image](./ImagesCTF/23.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -240,7 +240,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 24. Drole d'inauguration
 
-![image](../ImagesCTF/24.png)
+![image](./ImagesCTF/24.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -248,7 +248,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 25. Marketplace
 
-![image](../ImagesCTF/25.png)
+![image](./ImagesCTF/25.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -256,7 +256,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 26. Astroturfing
 
-![image](../ImagesCTF/26.png)
+![image](./ImagesCTF/26.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -264,7 +264,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 27. Double identite
 
-![image](../ImagesCTF/27.png)
+![image](./ImagesCTF/27.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -272,7 +272,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 28. Identifiee
 
-![image](../ImagesCTF/28.png)
+![image](./ImagesCTF/28.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -280,7 +280,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 29. Demasque
 
-![image](../ImagesCTF/29.png)
+![image](./ImagesCTF/29.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -288,7 +288,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 30. 99 Roubles
 
-![image](../ImagesCTF/30.png)
+![image](./ImagesCTF/30.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -296,7 +296,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 31. Le grand jour
 
-![image](../ImagesCTF/31.png)
+![image](./ImagesCTF/31.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -304,7 +304,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 32. Partner in crime
 
-![image](../ImagesCTF/32.png)
+![image](./ImagesCTF/32.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -312,7 +312,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 33. En voiture simone
 
-![image](../ImagesCTF/33.png)
+![image](./ImagesCTF/33.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -320,7 +320,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 34. Liaison dangereuse
 
-![image](../ImagesCTF/34.png)
+![image](./ImagesCTF/34.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -328,7 +328,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 35. L’entrevue
 
-![image](../ImagesCTF/35.png)
+![image](./ImagesCTF/35.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -336,7 +336,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 36. L'after
 
-![image](../ImagesCTF/36.png)
+![image](./ImagesCTF/36.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -344,7 +344,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 37. Revele ton secret
 
-![image](../ImagesCTF/37.png)
+![image](./ImagesCTF/37.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -352,7 +352,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 38. Une adresse ou ca
 
-![image](../ImagesCTF/38.png)
+![image](./ImagesCTF/38.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
@@ -360,7 +360,7 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 39. Masque numerique
 
-![image](../ImagesCTF/39.png)
+![image](./ImagesCTF/39.png)
 
 **🎯 Flag :** `Notre token`
 
@@ -368,17 +368,13 @@ _La phrase d'avant-propos est skip, mais elle expliquait toutes les fonctionnali
 
 ### 40. Aftermath
 
-![image](../ImagesCTF/40.png)
+![image](./ImagesCTF/40.png)
 
 **🎯 Flag :** `Mettons un point final à la menace 509`
 
 --
 
 ## Techniques utilisees
-
-![image](../ImagesCTF/11.png)
-
-**🎯 Flag :** `Mettons un point final à la menace 509`
 
 ---
 
