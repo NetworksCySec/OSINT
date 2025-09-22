@@ -22,7 +22,7 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 - Participation en équipe sous le nom *Osint Special Squad 117*
 - Résultat 🥉 : **Top 3/378** en grande finale
 - Investigation complète autour de quatre personnages plongés dans la manipulation et la désinformation.
-- Rédaction de writes-up [disponibles ici](https://github.com/NetworksCySec/OSINT/tree/main/Mission%20V%C3%A9rit%C3%A9%20CTF%20%23BIG2025).
+- Rédaction d'un write-up [disponibles ici](https://github.com/NetworksCySec/OSINT/tree/main/Mission%20V%C3%A9rit%C3%A9%20CTF%20%23BIG2025).
   
 ### 🦊 Hack'Osint 2 CTF — **mai 2025**
 
