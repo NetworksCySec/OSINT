@@ -2,7 +2,7 @@
 
 _Type : CTF OSINT  
 Date : Septembre 2025  
-Classement 🥉 : **Top 3/236**
+Classement 🥉 : **Top 3/218**
 
 _Réalisé en équipe de 4 avec Yukss/Emerald/Nyxou sous le nom d'équipe **OsintSpecialSquad117**_
 
