@@ -8,7 +8,7 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 
 | 🗓️ Année | 🧩 CTF                             | 👥 Équipe / Solo                   | 🏛️ Organisateur          | 🏅 Résultat                      |
 |----------|-------------------------------------|------------------------------------|--------------------------|-----------------------------------|
-| 2025     | 🪖 L'armée s'est fait hacker      | Solo   | Armée de Terre | 📌 Pas de classement     |
+| 2025     | 🪖 L'armée de Terre s'est fait hacker      | Solo   | Armée de Terre | 📌 Pas de classement     |
 | 2025     | 🏦​ Mission Vérité CTF #BIG2025      | Osint Special Squad 117 (équipe)   | HACK'OLYTE / Blaireaux des Légendes| 🥉 Top 3 / 218   |
 | 2025     | 🛡️ Shutlock CTF     | Solo   | DGSI | 📌 Pas de classement     |
 | 2025     | 🦊 Hack'Osint 2                     | Osint Special Squad 117 (équipe)   | HACK'OLYTE               | 🥈 Top 2 / 378 (grande finale)   |
@@ -19,7 +19,7 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 
 ## 📊 Détails 
 
-### 🪖 L'armée s'est fait hacker  — **septembre/octobre 2025**
+### 🪖 L'armée de Terre s'est fait hacker  — **septembre/octobre 2025**
 
 - Participation en solo avec les autres membres qui ont mené l'enquête
 - Résultat 🏅 : Pas de résultat attendu
