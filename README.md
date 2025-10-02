@@ -19,7 +19,7 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 
 ## 📊 Détails 
 
-### 🪖 L'armée s'est fait hacker  — **septembre/Octobre 2025**
+### 🪖 L'armée s'est fait hacker  — **septembre/octobre 2025**
 
 - Participation en solo avec les autres membres qui ont mené l'enquête
 - Résultat 🏅 : Pas de résultat attendu
