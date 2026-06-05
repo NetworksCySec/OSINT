@@ -6,18 +6,46 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 
 ## 🏆 Résumé des participations et résultats
 
-| 🗓️ Année | 🧩 CTF                             | 👥 Équipe / Solo                   | 🏛️ Organisateur          | 🏅 Résultat                      |
+| 🗓️ Année | 🧩 CTF                             | 👥 Équipe / Solo                   | 🏛️ Organisateur          | 🏅 Résultat (nombres d'équipes) |
 |----------|-------------------------------------|------------------------------------|--------------------------|-----------------------------------|
-| 2025     | 🪖 L'armée de Terre s'est fait hacker      | Solo   | Armée de Terre | 📌 Pas de classement     |
-| 2025     | 🏦​ Mission Vérité CTF #BIG2025      | Osint Special Squad 117 (équipe)   | HACK'OLYTE / Blaireaux des Légendes| 🥉 Top 3 / 218   |
-| 2025     | 🛡️ Shutlock CTF     | Solo   | DGSI | 📌 Pas de classement     |
-| 2025     | 🦊 Hack'Osint 2                     | Osint Special Squad 117 (équipe)   | HACK'OLYTE               | 🥈 Top 2 / 378 (grande finale)   |
+| 2026     | 🐪 Skopein CTF                      | Osint Special Squad 117 (équipe)   | EEIE                     | 🥇 Top 1 / 105                   |
+| 2026     | 🛡️ 404 CTF                          | Solo                               | DGSE                     | 📌 Pas de classement             |
+| 2026     | 🦏 Medileak 3                       | Osint Special Squad 117 (équipe)   | Oscar Zulu               | 🏅 Top 7 / 186                   |
+| 2026     | 🪖 Bleuet de France v5              | Osint Special Squad 117 (équipe)   | AEGE                     | 🏅 Top 4/220                     |
+| 2025     | 🪖 L'armée de Terre s'est fait hacker | Solo                             | Armée de Terre           | 📌 Pas de classement             |
+| 2025     | 🏦​ Mission Vérité CTF #BIG2025      | Osint Special Squad 117 (équipe)   | HACK'OLYTE / Blaireaux des Légendes| 🥉 Top 3 / 218         |
+| 2025     | 🛡️ Shutlock CTF                     | Solo                               | DGSI                     | 📌 Pas de classement             |
+| 2025     | 🦊 Hack'Osint 2                     | Osint Special Squad 117 (équipe)   | HACK'OLYTE               | 🥈 Top 2 / 378                   |
 | 2025     | 🦏 Medileak 2                       | OneForAll (solo)                   | Oscar Zulu               | 🏅 Top 17 / 134 (1er solo)       |
 | 2025     | 🪖 Bleuet de France v4              | OneForAll (solo)                   | AEGE                     | 📌 Pas de classement             |
 
 ---
 
 ## 📊 Détails 
+
+### 🐪 Skopein CTF — **juin 2026**
+- Participation en équipe sous le nom *Osint Special Squad 117*
+- Résultat 🏅 : **Top 1/105**
+- Investigation complète sur une ingérence économique sino-egyptienne fictive
+
+### 🛡️ 404 CTF  — **juin 2026**
+
+- Participation en solo
+- Résultat 🏅 : Pas de résultat attendu (juste la partie OSINT complète)
+- Organisé la DGSE
+- Pas de write-up.
+
+### 🦏 Medileak 3 CTF — **mai 2026**
+- Participation en équipe sous le nom *Osint Special Squad 117*
+- Résultat 🏅 : **Top 7/186**
+- Seulement 12 équipes ont fini entièrement
+- Investigation complète autour d’un leak médical fictif
+
+### 🪖 Bleuet de France v4 CTF — **mai 2026**
+
+- Participation en équipe sous le nom *Osint Special Squad 117*
+- Résultat 🏅 : **Top 4/220**
+- Investigation autour de la Seconde Guerre mondiale
 
 ### 🪖 L'armée de Terre s'est fait hacker  — **septembre/octobre 2025**
 
@@ -36,7 +64,7 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 ### 🛡️ Shutlock CTF  — **juin 2025**
 
 - Participation en solo
-- Résultat 🏅 : Pas de résultat attendu (juste la partie OSINT)
+- Résultat 🏅 : Pas de résultat attendu (juste la partie OSINT complète)
 - Organisé la DGSI
 - Pas de write-up.
   
