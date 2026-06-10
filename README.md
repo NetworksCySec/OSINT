@@ -8,8 +8,9 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 
 | 🗓️ Année | 🧩 CTF                             | 👥 Équipe / Solo                   | 🏛️ Organisateur          | 🏅 Résultat (nombres d'équipes) |
 |----------|-------------------------------------|------------------------------------|--------------------------|-----------------------------------|
+| 2026     | 🐪 Skopein CTF - Rapport             | Osint Special Squad 117 (équipe)  | EEIE                     | 🥇 Top 1 / 145                   |
 | 2026     | 🕵 Search Party CTF 2026.06         | Polaris Intelligence Group (équipe)| Tracelabs                | 🏅 Top 17 / 124                  |
-| 2026     | 🐪 Skopein CTF                      | Osint Special Squad 117 (équipe)   | EEIE                     | 🥇 Top 1 / 105                   |
+| 2026     | 🐪 Skopein CTF - Challenges         | Osint Special Squad 117 (équipe)   | EEIE                     | 🥇 Top 1 / 145                   |
 | 2026     | 🛡️ 404 CTF                          | Solo                               | DGSE                     | 📌 Pas de classement             |
 | 2026     | 🦏 Medileak 3                       | Osint Special Squad 117 (équipe)   | Oscar Zulu               | 🏅 Top 7 / 186                   |
 | 2026     | 🪖 Bleuet de France v5              | Osint Special Squad 117 (équipe)   | AEGE                     | 🏅 Top 4/220                     |
