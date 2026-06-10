@@ -49,13 +49,14 @@ Chaque dossier contient des **captures** et **write-ups complets** quand disponi
 - Participation en équipe sous le nom *Osint Special Squad 117*
 - Résultat 🏅 : **Top 4/220**
 - Investigation autour de la Seconde Guerre mondiale
+- Pas de write-up.
 
 ### 🪖 L'armée de Terre s'est fait hacker  — **septembre/octobre 2025**
 
 - Participation en solo avec les autres membres qui ont mené l'enquête
 - Résultat 🏅 : Pas de résultat attendu
 - Cybercanular sophistiqué simulant une attaque contre le site “Armée de terre recrute”
-- Write-up disponible à la fin du CTF
+- Pas de write-up.
 
 ### 🏦 Mission Vérité CTF #BIG2025  — **septembre 2025**
 
